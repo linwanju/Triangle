@@ -17,7 +17,7 @@ public class Triangle
 			{
 				if ((a == b) && (b == c))
 				{
-					return "Regular triangle";
+					return "Regular";
 				}
 				if ((a == b) || (b == c) || (c == a))
 				{
