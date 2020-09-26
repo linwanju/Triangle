@@ -5,7 +5,7 @@ public class Triangle
 	{
 		if ((a <= 0) || (b <= 0) || (c <= 0))
 		{
-			return "Not a triangleNot a triangle";
+			return "Not a trianglecatcat";
 		}
 		else
 		{
